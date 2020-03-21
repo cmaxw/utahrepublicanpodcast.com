@@ -7,12 +7,7 @@
     },
     {
       "name": "About",
-      "link": "/about",
-      "external": false
-    },
-    {
-      "name": "Getting started",
-      "link": "/category/getting-started",
+      "link": "/episode/welcome-to-the-podcast/",
       "external": false
     }
   ],
