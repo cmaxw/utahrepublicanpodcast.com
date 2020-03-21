@@ -7,9 +7,8 @@ created: 2020-03-20
 image: ./images/utah-republican-podcast-small.jpg
 image_caption: Delicate Arch
 author: author1
-audio_embed: |
-  <div id="buzzsprout-player-3072154"></div>
-  <script src="https://www.buzzsprout.com/919228/3072154-urp-1-introduction.js?container_id=buzzsprout-player-3072154&player=small" type="text/javascript" charset="utf-8"></script>
+audio_url: https://www.buzzsprout.com/919228/3072154-urp-1-introduction.mp3?blob_id=10819057&download=true
+timeToRead: 8
 ---
 
 ## Welcome to the Podcast

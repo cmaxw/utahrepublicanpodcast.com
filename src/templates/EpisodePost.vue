@@ -43,10 +43,9 @@
               </p>
             </div>
           </div>
+          <audio :src="$page.episode.audio_url" controls style="width: 100%;"></audio>
         </section>
       </div>
-      <section class="post-image mx-auto w-full" v-html="$page.episode.audio_embed">
-      </section>
 
       <div class="lg:mx-32 md:mx-16 px-4 sm:px-0">
         <section class="post-content container mx-auto relative font-serif text-gray-700">
@@ -82,7 +81,7 @@
       path
       image(width:1600, height:800)
       image_caption
-      audio_embed
+      audio_url
       excerpt
       content
       humanTime : created(format:"DD MMMM YYYY")
