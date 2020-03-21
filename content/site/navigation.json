@@ -17,7 +17,7 @@
     }
   ],
   "footerNavigation": [{
-      "name": "Latest Posts",
+      "name": "Latest Episodes",
       "link": "/",
       "external" : false
     },
@@ -27,14 +27,14 @@
       "external": true
     },
     {
-      "name": "Gridsome",
+      "name": "Twitter",
       "link": "https://www.gridsome.org",
       "external": true
     },
     {
       "name": "RSS",
-      "link": "/rss.xml",
-      "external": false
+      "link": "https://feeds.buzzsprout.com/919228.rss",
+      "external": true
     }
   ]
 }
