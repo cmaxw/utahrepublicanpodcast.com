@@ -43,6 +43,7 @@
               </p>
             </div>
           </div>
+          <br>
           <audio :src="$page.episode.audio_url" controls style="width: 100%;"></audio>
         </section>
       </div>
