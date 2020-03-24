@@ -23,4 +23,24 @@ export default function (Vue, {router, head, isClient}) {
     defaultPlacement: 'top-end',
     defaultClass: 'bg-black text-xs px-2 leading-normal py-1 rounded absolute text-gray-400 max-w-xs mb-1'
   })
+
+  head.meta.push({
+    property: 'og:image',
+    content: "https://utahrepublicanpodcast.com/utah-republican-podcast.jpg"
+  })
+
+  head.meta.push({
+    property: 'og:image:type',
+    content: "image/jpeg"
+  })
+
+  head.meta.push({
+    property: 'og:image:width',
+    content: "3000"
+  })
+
+  head.meta.push({
+    property: 'og:image:height',
+    content: "3000"
+  })
 }
