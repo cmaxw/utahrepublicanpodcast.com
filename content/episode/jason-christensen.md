@@ -20,3 +20,4 @@ His [Town Hall/Q&A hosted by Charles](https://www.crowdcast.io/e/jason-christens
 You can find more information about his campaign at:
 
 [https://draintheutahswamp.com/](https://draintheswamputah.com)
+[Facebook](https://www.facebook.com/Jason-Christensen-for-Utah-Governor-2357400587687158/)
