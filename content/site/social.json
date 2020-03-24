@@ -7,6 +7,10 @@
     {
       "icon": "twitter",
       "link": "https://twitter.com/podcast_utah"
+    },
+    {
+      "icon": "rss",
+      "link": "https://feeds.buzzsprout.com/919228.rss"
     }
   ]
 }
