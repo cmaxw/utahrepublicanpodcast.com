@@ -5,13 +5,13 @@ category: Interview
 excerpt: An interview with Jason Christensen, candidate for Governor of Utah
 created: 2020-03-23
 image: ./images/jason_christensen.jpg
-image_caption: Delicate Arch
+image_caption: Jason Christensen
 author: author1
 audio_url: https://www.buzzsprout.com/919228/3102751-urp-2-jason-christensen-candidate-for-governor.mp3?blob_id=10956805&download=true
 timeToRead: 8
 ---
 
-## Welcome to the Podcast
+## Jason Christensen - Gubernatorial Candidate
 
 Jason Christensen is a candidate for Utah's Governor.
 
