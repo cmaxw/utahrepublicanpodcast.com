@@ -11,7 +11,7 @@ audio_url: https://www.buzzsprout.com/919228/3119212-kim-coleman-candidate-for-c
 timeToRead: 66
 ---
 
-## Kim Coleman - 4th Congressional District Candidate
+## Chris Biesinger - 4th Congressional District Candidate
 
 Chris Biesinger is running for Congress in Utah's 4th Congressional District.
 
