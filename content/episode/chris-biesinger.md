@@ -3,7 +3,7 @@ title: Chris Biesinger - Candidate for 4th Congressional District
 tags: podcast, interview
 category: Interview
 excerpt: An interview with Chris Biesinger - candidate for the 4th Congressional District
-created: 2020-03-23
+created: 2020-03-26
 image: ./images/chris-biesinger-1400.png
 image_caption: Chris Biesinger
 author: author1
