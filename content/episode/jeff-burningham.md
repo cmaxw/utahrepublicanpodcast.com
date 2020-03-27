@@ -3,7 +3,7 @@ title: Jeff Burningham - Candidate for Governor
 tags: podcast, interview
 category: Interview
 excerpt: An interview with Jeff Burningham - Candidate for Utah Governor
-created: 2020-03-26
+created: 2020-03-27
 image: ./images/jeff-burningham.jpg
 image_caption: Jeff Burningham    
 author: author1
